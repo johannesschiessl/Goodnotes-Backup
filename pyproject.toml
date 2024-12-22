@@ -1,0 +1,10 @@
+[project]
+name = "goodnotes-backup"
+version = "0.1.0"
+description = "Backup Goodnotes files using WebDAV to a custom server."
+readme = "README.md"
+authors = [
+    { name = "Johannes Schießl" }
+]
+requires-python = ">=3.12"
+dependencies = []
