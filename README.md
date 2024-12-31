@@ -39,3 +39,11 @@ Backup Goodnotes files using WebDAV to a custom server.
 3. Then add the ngrok url you see in the terminal to the url section and just type in any user and password. (It doesn't matter because it's anonymous access, but Goodnotes won't let you connect if the fields are empty).
 
 4. After that wait a while, you can check the backup waitlist to see the progress. 
+
+## Contributing
+
+Feel free to contribute by creating issues or pull requests. Suggestions for new features are always welcome!
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
